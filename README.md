@@ -14,4 +14,4 @@ How to share your jupyter notebooks on nbviewer?
     `https://raw.githubusercontent.com/USERNAME/REPOSITORY/blob/main/notebook.ipynb`
  3. Remove /blob/ from the path.    
     `https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/notebook.ipynb`
- 4. Once you have the raw file link, you can paste it into nbviewer.
+ 4. Once you have the raw file link, you can paste it into nbviewer.org.
