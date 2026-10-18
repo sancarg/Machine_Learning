@@ -33,3 +33,28 @@ Start with Logistic Regression and evaluate model performance. You will apply th
 
 Then, you will use four different algorithms in the model building phase.
 
+# Tasks
+
+#### 1. Exploratory Data Analysis & Data Cleaning
+
+- Import Modules, Load Data & Data Review
+- Apply Data Integrity Checks
+- Exploratory Data Analysis
+- Data Cleaning
+    
+#### 2. Data Preprocessing
+
+- Train - Test Split
+- Train - Test Split Validation Checks
+- Scaling
+
+#### 3. Model Building
+
+- Logistic Regression
+- Random Forest Classifier
+- XGBoost Classifier
+- Neural Network
+
+#### 4. Model Evaluation
+
+#### 5. Deployment With Streamlit
